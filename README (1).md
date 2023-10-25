@@ -8,6 +8,8 @@ description: >-
 
 ## 1- Prerequisites Knowledge
 
+<figure><img src="https://www.clipartkey.com/mpngs/m/321-3217359_not-prior-knowledge-required-prior-knowledge-clipart.png" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary>Java (Programming Language)</summary>
@@ -108,6 +110,8 @@ Online Video Resources to Learn Git from:
 ***
 
 ## 2- Prepare your Development Environment
+
+<figure><img src="https://spectrum.ieee.org/image/MzYzNjYzNA.jpeg" alt=""><figcaption></figcaption></figure>
 
 <details>
 
