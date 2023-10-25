@@ -16,10 +16,6 @@ layout:
 
 Now that you have the prerequisites for REST ASSURED, you are ready to start
 
-* The official getting started documentation
-*
+* The official Getting Started documentation [https://github.com/rest-assured/rest-assured/wiki/GettingStarted](https://github.com/rest-assured/rest-assured/wiki/GettingStarted)
 *
 
-&#x20;
-
-{% @github-files/github-code-block %}
