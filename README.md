@@ -22,4 +22,6 @@ layout:
 [README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
-***
+{% content-ref url="getting-started-with-rest-assured.md" %}
+[getting-started-with-rest-assured.md](getting-started-with-rest-assured.md)
+{% endcontent-ref %}
