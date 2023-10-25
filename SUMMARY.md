@@ -1,3 +1,4 @@
 # Table of contents
 
-* [⏮ Before you start learning REST ASSURED](README.md)
+* [📚 REST ASSURED Tutorial](README.md)
+* [⏮ Before you start learning REST ASSURED](<README (1).md>)
