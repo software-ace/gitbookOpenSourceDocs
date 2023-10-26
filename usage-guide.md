@@ -18,6 +18,8 @@ layout:
 
 Here are examples of all the common HTTP request methods (GET, POST, PUT, PATCH, DELETE) using Rest-Assured
 
+<figure><img src="https://miro.medium.com/max/4318/1*6cjGAevnut9YuDmprV1Qmw.png" alt=""><figcaption></figcaption></figure>
+
 ### Get Request:
 
 ```java
