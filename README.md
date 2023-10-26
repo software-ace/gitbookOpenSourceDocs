@@ -25,3 +25,7 @@ layout:
 {% content-ref url="getting-started-with-rest-assured.md" %}
 [getting-started-with-rest-assured.md](getting-started-with-rest-assured.md)
 {% endcontent-ref %}
+
+{% content-ref url="usage-guide.md" %}
+[usage-guide.md](usage-guide.md)
+{% endcontent-ref %}

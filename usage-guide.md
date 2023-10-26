@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 📖 Usage Guide
+# 👨💻 Usage Guide
 
 ## Simple HTTP request examples
 
