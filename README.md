@@ -14,7 +14,7 @@ layout:
 
 # 📚 REST ASSURED Tutorial
 
-
+<figure><img src=".gitbook/assets/image-103-3110907096.png" alt=""><figcaption></figcaption></figure>
 
 ## Tutorial Contents
 
