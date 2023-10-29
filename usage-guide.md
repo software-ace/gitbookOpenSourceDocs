@@ -14,6 +14,44 @@ layout:
 
 # 👨💻 Usage Guide
 
+## [Static imports](https://github.com/rest-assured/rest-assured/wiki/Usage#static-imports) <a href="#user-content-static-imports" id="user-content-static-imports"></a>
+
+In order to use REST assured effectively it's recommended to statically import methods from the following classes:
+
+```
+io.restassured.RestAssured.*
+io.restassured.matcher.RestAssuredMatchers.*
+org.hamcrest.Matchers.*
+```
+
+***
+
+## Parameters in RESTful APIs
+
+Let's take a quick look at the parameters in RESTful APIs. Basically, there are two types of parameters.
+
+* **Path Parameters**
+
+where the parameter value is simply part of the URL that you call when you invoke the API.
+
+* http://api.zippopotam.us/**us**/**90210**
+* http://api.zippopotam.us/**ca**/**B2R**
+
+So, for example, US and 90210 are path parameters. But also, in the last example that we saw in the previous slide, CA and B2R are different values for the same path parameters.
+
+* **Query Parameters**
+
+which we can recognize by the question mark (?) followed by key/value tuples separated by an equal sign.
+
+So, for example:
+
+* https://duckduckgo.com/?**q=cats**
+* https://www.google.com/search?**q=cats**
+
+For this specific API, you specify query parameters with a key `q` and a value that can contain any sort of thing like `cats`
+
+***
+
 ## Simple HTTP request examples
 
 Here are examples of all the common HTTP request methods (GET, POST, PUT, PATCH, DELETE) using Rest-Assured
@@ -138,4 +176,12 @@ public class DeleteRequestExample {
     }
 }
 ```
+
+***
+
+## Using TestNG Data Provider
+
+Imagine you write a separate test code for every test you need to do :scream: because you know, you have different inputs for the same test most of the time &#x20;
+
+here comes TestNG to save the day! :superhero: with its Data Provider feature.
 
